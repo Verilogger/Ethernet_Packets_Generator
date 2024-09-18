@@ -71,7 +71,6 @@ After building the project, you can run the program with the configuration and o
 ```bash
 program_output.exe setup.txt data.txt
 ```
+## License
 
-
-
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
